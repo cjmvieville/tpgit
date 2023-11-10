@@ -1,6 +1,12 @@
 .cellule {
-	// définir le style d'une cellule pour numéro non tiré
+  font-family: Arial, Helvetica, sans-serif;
+  border:1px solid black;
+  width:100px;
+  height:100px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
 }
 .selection {
-	// définir le style d'une cellule pour numéro tiré
+  background-color : #00e000;
 }
